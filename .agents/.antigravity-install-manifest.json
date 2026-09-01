@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-27T16:41:08.926Z",
+  "entries": [
+    "anti-ui-slop",
+    "app-builder",
+    "ci-cd-and-automation",
+    "code-review-and-quality",
+    "code-showcase-systematic-debugging",
+    "docs",
+    "frontend-architecture",
+    "frontend-design",
+    "idea-os",
+    "lint-and-validate",
+    "testing-qa"
+  ]
+}

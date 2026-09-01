@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+
+# Env & secrets — JANGAN commit
+.env
+.env.*
+!.env.example
+server/.env
+
+# Local SQLite DB
+server/database.sqlite
+server/database.sqlite-wal
+server/database.sqlite-shm
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# TS build info
+*.tsbuildinfo
